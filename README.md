@@ -8,6 +8,7 @@ Use the "Results_Only.py" to see only the first part of the code (ie this only q
 
 
 You'll need to:
+
 1. Define your class
 
 2. Define what you want "Regex" to find
